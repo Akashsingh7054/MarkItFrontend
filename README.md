@@ -1,7 +1,7 @@
 # MarkIt
 
 <div align ="center">
-[Backend Code Link ]()
+[Backend Code Link ](https://github.com/Akashsingh7054/MarkitBack)
 
 ![Banner Image](./public/background.png)
 
@@ -54,7 +54,6 @@ MarkIt is a content platform that enables users to share their expertise through
 - [Express.js](https://expressjs.com/) - Web framework
 - [MongoDB](https://www.mongodb.com/) - Database
 - [JWT](https://jwt.io/) - Authentication
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - Password hashing
 
 ## Prerequisites
 
@@ -83,12 +82,12 @@ npm install
 
 ```bash
 # Backend (.env)
-PORT=8081
+PORT=3000
 DB_CONNECTION_STRING=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 
 # Frontend (.env)
-VITE_API_URL=http://localhost:8081
+VITE_API_URL=http://localhost:3000
 ```
 
 3. **Development**
@@ -147,5 +146,5 @@ MarkIt/
 ---
 
 <div align ="center">
-Made with ❤️ by <a href="">Akash Singh</a>
+Made with ❤️ by <a href="https://www.linkedin.com/in/akash-singh-76542924b/">Akash Singh</a>
 </div>
