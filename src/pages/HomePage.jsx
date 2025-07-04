@@ -114,7 +114,7 @@ const HomePage = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gaurav Chaurasiya
+            Akash Singh
           </a>
         </p>
       </footer>
